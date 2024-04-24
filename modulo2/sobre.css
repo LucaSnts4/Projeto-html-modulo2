@@ -1,0 +1,136 @@
+* {
+    background-color: #39ca4f;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    background-color: #39ca4f;  
+    border-radius: 12px; 
+}
+
+.menu, .header {
+    margin-top: 10px;
+}
+
+.menu {
+    width: 15%;
+    background-color: white;
+    padding: 10px 20px 0px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border: #39ca4f solid 3px;
+}
+
+#logo1 {
+    height: 45px;
+    background: 0;
+    margin-left: 33px;
+    margin-top: 10px;
+}
+
+ul, li, a {
+    background-color: white;
+}
+
+ul {
+    margin: 0px;
+    padding: 25px;
+}
+
+a {
+    font-size: 16px;
+    color: #39ca4f;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+    background-color: #39ca4f;
+}
+
+.header {
+    background-image: url(./fotos/clinical-reception-with-waiting-room-facility-lobby-registration-counter-used-patients-with-medical-appointments-empty-reception-desk-health-center-checkup-visits.jpg);
+    background-position: 20% 80%;
+    background-size: cover;
+    background-color: white;
+    min-height: 150px;
+    border-top-right-radius: 12px;
+    border: #39ca4f solid 3px;
+}
+
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    border: #39ca4f solid 3px;
+}
+
+h1 {
+    margin-top: 10px;
+    background: 0;
+    color: #39ca4f;
+}
+
+.content p {
+    text-align:justify ;
+    background: 0;
+    font-size: 20px;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    min-height: 150px;
+    border-bottom-right-radius: 12px;
+    border: #39ca4f solid 3px;
+}
+
+#logofooter {
+    width: auto;
+    height: 80px;
+    background: 0;
+    padding: 30px;
+}
+
+.footerinfo {
+    display: flex;
+    width: 160px;
+    align-items: center;
+    flex-direction: column;
+    background: 0;
+    
+}
+
+.textprin {
+    margin-top: 32px;
+    color: #39ca4f;
+    background: 0;
+    font-size: 25px;
+    text-align: center;
+}
+
+#textsecond {
+    font-size: 15px;
+    background: 0;
+    margin: 10px;
+}
+
+#social {
+    margin: 3px;
+    color: black;
+}
+address {
+    padding-left: 16px;
+}
