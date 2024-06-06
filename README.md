@@ -1,8 +1,19 @@
 # Trilha HTML - Dio.me
-## Módulo 01 - Primeiros passos com HTML
+## Módulo 02 - HTML I - Conceitos Básicos
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+- Formulários
+- Estruturação e formatação de texto
+- Mídias
+- Tabelas
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
+Além de outros recursos falados nas aulas!
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+## Instruções
+1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
+2. Este site deve conter o seguinte menu de navegação:
+    - Página Principal
+    - Sobre a clínica
+    - Horário de Atendimento
+    - Contato
+3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
